@@ -1,5 +1,7 @@
 # changing-mpas
-Data, statistical models, and R scripts accompanying Graham et al. Changing Role of Coral Reef Marine Reserves in a Warming Climate (in press).
+Data, statistical models, and R scripts accompanying Graham et al. Changing Role of Coral Reef Marine Reserves in a Warming Climate, 2020, *Nature Communications*.
+
+[https://www.nature.com/articles/s41467-020-15863-z](https://www.nature.com/articles/s41467-020-15863-z)
 
 [data](/data) contains .csv files of data underlying Figs 1-4 and S2-S4.
 
